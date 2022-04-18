@@ -1,4 +1,4 @@
-# heart_attack_prediction
+# insurance-price-prediction
 ## Table of Contents  
 1. [Prerequisites](#prerequisites)
 1. [Problem-Statement](#problem-statement) 
