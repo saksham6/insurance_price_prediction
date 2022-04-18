@@ -1,6 +1,6 @@
 # heart_attack_prediction
 ## Table of Contents  
-1. [Prerequisites](prerequisites)
+1. [Prerequisites](#prerequisites)
 1. [Problem-Statement](#problem-statement) 
 
 1. [Data-Analysis-And-Data-Cleaning(EDA](#data-analysis-and-data-cleaning)
